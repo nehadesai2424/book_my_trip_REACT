@@ -8,11 +8,11 @@ Used React validation to ensure accurate and structured review submissions.
 Fetches and stores review data using a mock API.
 
 ## Tech Stack :
-React.js for UI development
-React Router for navigation
-Axios for API calls (CRUD operations)
-Bootstrap/CSS for styling
-form validation
+✅ React.js for UI development
+✅ React Router for navigation
+✅ Axios for API calls (CRUD operations)
+✅ Bootstrap/CSS for styling
+✅ form validation
 
 ## Features :
 ✅ Explore travel destinations
