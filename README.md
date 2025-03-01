@@ -1,20 +1,20 @@
-BookMyTrip - Travel Website | React Project
+## BookMyTrip - Travel Website | React Project :
 Welcome to BookMyTrip, a dynamic travel website built with React.js! This project allows users to explore destinations, submit reviews, and manage their travel experiences seamlessly.
 
-Overview :
+## Overview :
 Implemented React Router for smooth navigation across pages.
 Integrated CRUD operations for managing user reviews.
 Used React validation to ensure accurate and structured review submissions.
-Fetches and stores review data using a mock API (or backend integration).
+Fetches and stores review data using a mock API.
 
-Tech Stack :
+## Tech Stack :
 React.js for UI development
 React Router for navigation
 Axios for API calls (CRUD operations)
 Bootstrap/CSS for styling
 form validation
 
-Features
+## Features :
 ✅ Explore travel destinations
 ✅ Add, update, and delete reviews with validation
 ✅ Responsive and user-friendly design
