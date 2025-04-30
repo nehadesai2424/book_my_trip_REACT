@@ -51,7 +51,7 @@ book_my_trip_REACT/
 
 ---
 
-## 🧪 Usage
+##  Usage
 1. Clone the repository:
 ```bash
 git clone https://github.com/nehadesai2424/book_my_trip_REACT.git
