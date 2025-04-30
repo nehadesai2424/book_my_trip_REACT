@@ -76,8 +76,8 @@ http://localhost:3000
 ---
 
 ##  Author
-- **Name:** Neha Desai
-- **Project:** React Frontend Project  
+- **Name :** Neha Desai
+- **Project :** React Frontend Project  
 
 ---
 
