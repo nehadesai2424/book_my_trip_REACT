@@ -23,7 +23,7 @@ Welcome to **BookMyTrip**, a dynamic travel website built with **React.js**! Thi
 
 ##  Features
 - ✅ Explore travel destinations
-- ✅ Add, update, and delete reviews with validation
+- ✅ Add reviews with validation
 - ✅ Responsive and user-friendly design
 - ✅ Efficient routing for a seamless experience
 
